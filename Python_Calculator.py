@@ -1,3 +1,5 @@
+def add(x,y):
+    return x+y
 
 def divide():
 	a=float(input("Enter the first number:"))
@@ -15,6 +17,8 @@ print("2.Subtract")
 print("3.Multiply")
 print("4.Divide")
 
+def multiply(x,y):
+    return x*y
 while True:
     # take input from the user
     choice = input("Enter choice(1/2/3/4): ")
