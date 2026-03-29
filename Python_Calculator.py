@@ -1,3 +1,8 @@
+
+
+def subtract(a,b):
+	print("The result of the subtraction is ",a-b)
+
 print("Select operation.")
 print("1.Add")
 print("2.Subtract")
