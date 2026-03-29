@@ -2,15 +2,11 @@ def add(x,y):
     return x+y
 
 def divide():
-	a=float(input("Enter the first number:"))
-	b=float(input("Enter the second number:"))
- 	
-
-	print(f"The result of the subtraction is ",a/b)
+	return a/b
 
 
 def subtract(a,b):
-	print("The result of the subtraction is ",a-b)
+	return a-b
 
 print("Select operation.")
 print("1.Add")
