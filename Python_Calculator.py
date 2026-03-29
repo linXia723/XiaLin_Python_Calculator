@@ -1,7 +1,5 @@
 def add(x,y):
-    res=x+y
-    return res
+    return x+y
 
 def multiply(x,y):
-    res=x*y
-    return res
+    return x*y
